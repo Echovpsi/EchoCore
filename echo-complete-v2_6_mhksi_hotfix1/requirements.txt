@@ -1,0 +1,7 @@
+flask
+flask-socketio
+rich
+sympy
+psutil
+requests
+kademlia

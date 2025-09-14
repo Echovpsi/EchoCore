@@ -1,0 +1,1 @@
+print('[Guardian] Core loaded')

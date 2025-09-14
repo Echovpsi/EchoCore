@@ -1,0 +1,1 @@
+def speak(x): pass
